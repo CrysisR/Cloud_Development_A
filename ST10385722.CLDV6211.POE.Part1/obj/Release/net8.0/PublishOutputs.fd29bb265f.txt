@@ -1,0 +1,7 @@
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\ST10385722.CLDV6211.POE.Part1.exe
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\ST10385722.CLDV6211.POE.Part1.dll
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\ST10385722.CLDV6211.POE.Part1.deps.json
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\ST10385722.CLDV6211.POE.Part1.runtimeconfig.json
+C:\Users\Niel\source\repos\ST10385722.CLDV6211.POE.Part1\ST10385722.CLDV6211.POE.Part1\obj\Release\net8.0\PubTmp\Out\ST10385722.CLDV6211.POE.Part1.pdb
